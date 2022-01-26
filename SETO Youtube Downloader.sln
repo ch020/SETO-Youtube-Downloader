@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "SETO Youtube Downloader", "SETO Youtube Downloader\SETO Youtube Downloader.vbproj", "{92C34CFE-FD4A-483B-B897-C1680BE2F22C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C34CFE-FD4A-483B-B897-C1680BE2F22C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C34CFE-FD4A-483B-B897-C1680BE2F22C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C34CFE-FD4A-483B-B897-C1680BE2F22C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C34CFE-FD4A-483B-B897-C1680BE2F22C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AAF8E1F0-5A46-41C6-8693-BA807AE5C798}
+	EndGlobalSection
+EndGlobal
